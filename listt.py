@@ -13,3 +13,8 @@ print(L[-1])
 #range of list
 
 print(L[2:5])
+
+#Check whether the element is in the list or not 
+
+if 35 in L:
+    print ("yes")
