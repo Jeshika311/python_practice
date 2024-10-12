@@ -4,3 +4,12 @@ L1 = [15,25,75]
 #check total no. in list
 
 print(len(L))
+
+#Indexing of an element
+#position of element
+
+print(L[-1])
+
+#range of list
+
+print(L[2:5])
