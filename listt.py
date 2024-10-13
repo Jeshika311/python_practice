@@ -28,3 +28,8 @@ print(L)
 
 L.append(95)
 print(L)
+
+#extend list
+
+L.extend(L)
+print(L)
