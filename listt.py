@@ -19,7 +19,12 @@ print(L[2:5])
 if 35 in L:
     print ("yes")
 
-    #Insert new element in last in list
+#Insert new element in last in list
 
 L.insert(4,90)
+print(L)
+
+#Add new no. in list 
+
+L.append(95)
 print(L)
