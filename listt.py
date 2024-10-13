@@ -33,3 +33,13 @@ print(L)
 
 L.extend(L)
 print(L)
+
+#Remove an element 
+
+L.remove(35)
+print(L)
+
+#Remove an element with help of pop 
+
+L.pop(4)
+print(L)
