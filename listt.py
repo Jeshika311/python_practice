@@ -41,5 +41,5 @@ print(L)
 
 #Remove an element with help of pop 
 
-L.pop(4)
-print(L)
+L1.pop(1)
+print(L1)
