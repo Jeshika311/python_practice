@@ -12,3 +12,8 @@ x = list(L1)
 y.insert(4,75)
 L = tuple(y)
 print(L)
+
+#append tuple
+y.append(95)
+L = tuple(y)
+print(L)
