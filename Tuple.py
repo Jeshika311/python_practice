@@ -8,3 +8,7 @@ print(len(L))
 y = list(L)
 x = list(L1)
 
+#Insert new element in tuple
+y.insert(4,75)
+L = tuple(y)
+print(L)
