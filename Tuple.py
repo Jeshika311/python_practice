@@ -28,3 +28,8 @@ print(L)
 y.remove(35)
 L = tuple(y)
 print(L)
+
+#remove with the help of pop operation
+y.pop(4)
+L = tuple(y)
+print(L)
