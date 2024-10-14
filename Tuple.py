@@ -17,3 +17,9 @@ print(L)
 y.append(95)
 L = tuple(y)
 print(L)
+
+#extend tuple
+y.extend(x)
+L = tuple(y)
+L1 = tuple(x)
+print(L)
