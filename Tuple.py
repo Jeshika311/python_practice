@@ -23,3 +23,8 @@ y.extend(x)
 L = tuple(y)
 L1 = tuple(x)
 print(L)
+
+#remove an element from tuple
+y.remove(35)
+L = tuple(y)
+print(L)
