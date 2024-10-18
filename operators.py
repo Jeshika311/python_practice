@@ -18,3 +18,15 @@ print(multiply)
 print(modulas)
 print(floor)
 print(exponential)
+
+
+#comparison operators
+
+Equality = x==y
+Notequal = x!=y
+GreaterOrEqual = x>=y
+SmallerOrEqual = x<=y
+print(Equality)
+print(Notequal)
+print(GreaterOrEqual)
+print(SmallerOrEqual)
