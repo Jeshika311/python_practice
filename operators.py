@@ -18,6 +18,7 @@ print(multiply)
 print(modulas)
 print(floor)
 print(exponential)
+print()
 
 
 #comparison operators
@@ -30,3 +31,16 @@ print(Equality)
 print(Notequal)
 print(GreaterOrEqual)
 print(SmallerOrEqual)
+print()
+
+
+#Assignment operator
+
+x+=3
+y-=3
+z/=5
+w*=3
+print(x)
+print(y)
+print(z)
+print(w)
