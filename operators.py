@@ -52,3 +52,19 @@ print()
 fruits= ["apple","banana"]
 print("apple" in fruits)
 print()
+
+
+#logical operators
+
+x = 5
+y = 20
+AND = x>y and y>x 
+print(AND)
+
+
+OR = x>y or y>x
+print(OR)
+
+NOT = not x>y
+print(NOT) 
+
