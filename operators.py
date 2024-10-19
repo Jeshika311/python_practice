@@ -44,3 +44,11 @@ print(x)
 print(y)
 print(z)
 print(w)
+print()
+
+
+#membership operators
+
+fruits= ["apple","banana"]
+print("apple" in fruits)
+print()
