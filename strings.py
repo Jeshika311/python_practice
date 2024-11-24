@@ -9,3 +9,6 @@ print("He is called 'Juhi'") #Display string literal with the print() function
 
 b = "Hello, World!"  #slicing by positive indexing
 print(b[2:5])
+
+c = "Hello, World!"  #Slice From the Start
+print(c[:5])
