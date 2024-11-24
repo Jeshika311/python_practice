@@ -15,3 +15,6 @@ print(c[:5])
 
 d = "Hello, World!"  #Slice To the End
 print(d[2:])
+
+f = "Hello, World!"  #Negative indexing
+print(f[-5:-2])
