@@ -12,3 +12,6 @@ print(b[2:5])
 
 c = "Hello, World!"  #Slice From the Start
 print(c[:5])
+
+d = "Hello, World!"  #Slice To the End
+print(d[2:])
