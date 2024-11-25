@@ -18,3 +18,8 @@ print(d[2:])
 
 f = "Hello, World!"  #Negative indexing
 print(f[-5:-2])
+
+#modify strings
+
+a = "Hello, World!"  #upper case
+print(a.upper()) 
