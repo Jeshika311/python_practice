@@ -23,3 +23,6 @@ print(f[-5:-2])
 
 a = "Hello, World!"  #upper case
 print(a.upper()) 
+
+a = "Hello, World!"  #lower case
+print(a.lower())
