@@ -32,3 +32,6 @@ print(a.strip())
  
 a = "Hello, World!"  #replace string
 print(a.replace("H", "J"))
+
+a = "Hello, World!" #split string
+print(a.split(",")) 
