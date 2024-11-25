@@ -26,3 +26,7 @@ print(a.upper())
 
 a = "Hello, World!"  #lower case
 print(a.lower())
+
+a = " Hello, World! "  #remove whitespace
+print(a.strip())
+ 
