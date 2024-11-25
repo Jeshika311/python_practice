@@ -30,3 +30,5 @@ print(a.lower())
 a = " Hello, World! "  #remove whitespace
 print(a.strip())
  
+a = "Hello, World!"  #replace string
+print(a.replace("H", "J"))
