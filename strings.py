@@ -42,3 +42,9 @@ a = "Hello"
 b = "World"
 c = a + " " + b
 print(c)
+
+#string format
+
+age = 36
+txt = f"My name is John, I am {age}"
+print(txt)
