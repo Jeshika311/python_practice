@@ -5,6 +5,11 @@ print(a)
 
 print("He is called 'Juhi'") #Display string literal with the print() function
 
+#length of the string
+
+txt = "My name is John"
+print(len(txt))
+
 #slicing strings
 
 b = "Hello, World!"  #slicing by positive indexing
