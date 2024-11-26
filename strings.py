@@ -35,3 +35,10 @@ print(a.replace("H", "J"))
 
 a = "Hello, World!" #split string
 print(a.split(",")) 
+
+#string concatenation
+
+a = "Hello"  
+b = "World"
+c = a + " " + b
+print(c)
