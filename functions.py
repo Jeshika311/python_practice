@@ -20,3 +20,13 @@ def my_function(child3, child2, child1):
   print("The youngest child is " + child3)
 
 my_function(child1 = "Anu", child2 = "Payal", child3 = "Jashan")
+
+#Default Parameter value
+
+def my_function(country = "Norway"):
+  print("I am from " + country)
+
+my_function("Sweden")
+my_function("India")
+my_function()
+my_function("Brazil")
