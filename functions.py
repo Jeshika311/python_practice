@@ -13,3 +13,10 @@ def my_function(fname):
 my_function("Emil")
 my_function("Tobias")
 my_function("Linus")
+
+#Keyword Arguments
+
+def my_function(child3, child2, child1):
+  print("The youngest child is " + child3)
+
+my_function(child1 = "Anu", child2 = "Payal", child3 = "Jashan")
