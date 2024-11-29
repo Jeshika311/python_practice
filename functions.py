@@ -30,3 +30,9 @@ my_function("Sweden")
 my_function("India")
 my_function()
 my_function("Brazil")
+
+#Passing a List as an Argument
+
+def my_function(food):
+  for x in food:
+    print(x)
