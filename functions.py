@@ -56,3 +56,10 @@ def my_function(x, /):
   print(x)
 
 my_function(3)
+
+#Keyword-Only Arguments
+
+def my_function(*, x):
+  print(x)
+
+my_function(x = 3)
