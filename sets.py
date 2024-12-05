@@ -8,3 +8,8 @@ print(set)
 
 set = {"apple" , "banana" , "cheery" , True , False , 1 , 0 ,2}
 print(set)
+
+#length of a set
+
+set = {"apple" , "banana" , "cheery"}
+print(len(set))
