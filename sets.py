@@ -13,3 +13,8 @@ print(set)
 
 set = {"apple" , "banana" , "cheery"}
 print(len(set))
+
+#type of a set
+
+set = {"apple" , "banana" , "cheery"}
+print(type(set))
