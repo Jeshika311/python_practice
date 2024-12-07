@@ -18,3 +18,9 @@ print(len(set))
 
 set = {"apple" , "banana" , "cheery"}
 print(type(set))
+
+#loop through the set
+
+set = {"apple" , "banana" , "cheery"}
+for x in set:
+    print(x)
