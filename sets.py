@@ -24,3 +24,8 @@ print(type(set))
 set = {"apple" , "banana" , "cheery"}
 for x in set:
     print(x)
+
+#check if any element is present in set
+
+set = {"apple" , "banana" , "cheery"}
+print("apple" in set)
