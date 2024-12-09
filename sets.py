@@ -29,3 +29,8 @@ for x in set:
 
 set = {"apple" , "banana" , "cheery"}
 print("apple" in set)
+
+#check if any element is not present in set
+
+set = {"apple" , "banana" , "cheery"}
+print("apple" not in set)
