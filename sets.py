@@ -34,3 +34,9 @@ print("apple" in set)
 
 set = {"apple" , "banana" , "cheery"}
 print("apple" not in set)
+
+#Add any item in set
+
+set = {"apple" , "banana" , "cheery"}
+set.add("orange")
+print(set)
