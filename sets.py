@@ -47,3 +47,10 @@ set1 = {"apple" , "banana" , "cheery"}
 set2 = {"pineapple" , "mango" , "papaya"}
 set1.update(set2)
 print(set1)
+
+#Add any iterable
+
+set = {"apple" , "banana" , "cheery"}
+list = ["pineapple" , "mango" , "papaya"]
+set.update(list)
+print(set)
