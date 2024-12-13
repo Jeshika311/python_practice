@@ -54,3 +54,9 @@ set = {"apple" , "banana" , "cheery"}
 list = ["pineapple" , "mango" , "papaya"]
 set.update(list)
 print(set)
+
+#Remove set items
+
+set = {"apple" , "banana" , "cheery"}
+set.remove("banana")
+print(set)
