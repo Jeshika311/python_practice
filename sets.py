@@ -60,3 +60,9 @@ print(set)
 set = {"apple" , "banana" , "cheery"}
 set.remove("banana")
 print(set)
+
+#Discard set items
+
+set = {"apple" , "banana" , "cheery"}
+set.discard("banana")
+print(set)
