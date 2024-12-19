@@ -6,3 +6,13 @@ dict = {
   "year": 1964
 }
 print(dict)
+
+#duplicates not allowed
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(dict)
