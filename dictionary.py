@@ -26,3 +26,12 @@ dict = {
   "year": 2020
 }
 print(len(dict))
+
+#Datatype of Dictionary
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(type(dict))
