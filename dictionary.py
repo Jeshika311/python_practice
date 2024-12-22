@@ -35,3 +35,12 @@ dict = {
   "year": 1964
 }
 print(type(dict))
+
+#Accessing Items 
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(dict["model"])
