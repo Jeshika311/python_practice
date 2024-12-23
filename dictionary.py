@@ -44,3 +44,13 @@ dict = {
   "year": 1964
 }
 print(dict["model"])
+
+#Accessing Items 
+#acces with the help of get()
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(dict.get("model"))
