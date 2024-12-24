@@ -54,3 +54,12 @@ dict = {
   "year": 1964
 }
 print(dict.get("model"))
+
+#Get keys
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(dict.keys())
