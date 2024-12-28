@@ -91,3 +91,13 @@ dict = {
 }
 dict["year"] = 2020
 print(dict)
+
+#update dictionary
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+dict.update({"year":2020})
+print(dict)
