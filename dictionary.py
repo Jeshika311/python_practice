@@ -101,3 +101,13 @@ dict = {
 }
 dict.update({"year":2020})
 print(dict)
+
+#add items
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+dict["color"] = "red"
+print(dict)
