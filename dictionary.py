@@ -111,3 +111,13 @@ dict = {
 }
 dict["color"] = "red"
 print(dict)
+
+#looping through a dictionary
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+for x in dict:
+    print(x)
