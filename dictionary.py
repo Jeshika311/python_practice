@@ -121,3 +121,22 @@ dict = {
 }
 for x in dict:
     print(x)
+
+#nested dictionary 
+
+myfamily = {
+  "child1" : {
+    "name" : "anu",
+    "year" : 2004
+  },
+  "child2" : {
+    "name" : "isha",
+    "year" : 2007
+  },
+  "child3" : {
+    "name" : "jashan",
+    "year" : 2011
+  }
+}
+
+print(myfamily)
