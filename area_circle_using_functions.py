@@ -1,7 +1,7 @@
 import math
 
 def area_of_circle(radius):
-    area = math.pi * radius ** 2  # Formula for area of a circle: A = π * r^2
+    area = math.pi*radius*radius  # Formula for area of a circle: A = π * r^2
     return area
 
 radius = float(input("Enter the radius of the circle: "))
