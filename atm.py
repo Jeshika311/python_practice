@@ -1,9 +1,4 @@
-print("___OPTIONS___")
-print("1.Balance Inquiry")
-print("2.Deposit")
-print("3.Withdrawal")
-print("4.Exit")
-print("")
+print("___OPTIONS___\n1.Balance Inquiry\n2.Deposit\n3.Withdrawal\n4.Exit\n ")
 
 amount = float(input("Enter your initial balance :- "))
 option = int(input("Enter option :- "))
